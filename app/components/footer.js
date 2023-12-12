@@ -29,10 +29,10 @@ export default function footer() {
                             <p className='text-white '>111 Bijoy sarani, Dhaka, DH 1515, Bangladesh.</p>
                         </div>
                         <div className="py-2">
-                            <p className='text-white '>haroonnadir034@gmail.com</p>
+                            <p className='text-white '>fahadhassanrajpoot480@gmail.com</p>
                         </div>
                         <div className="py-2">
-                            <p className='text-white '>+923346383605</p>
+                            <p className='text-white '>+923076084643</p>
                         </div>
                     </div>
                     <div className="">
